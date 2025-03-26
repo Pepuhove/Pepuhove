@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Kubernetes and AI Technologies**
 
-- 👨‍💻 All of my projects are available at [github.com/Pepuhove](github.com/Pepuhove)
+- 👨‍💻 All of my projects are available at [github.com/Pepuhove](https://github.com/Pepuhove)
 
 - 💬 Ask me about **DevOps, AWS**
 
