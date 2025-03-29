@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences www.linkedin.com/in/pepukai-hove-88a0a624b
 
-- ⚡ Fun fact **I like to automate all things**
+- ⚡ Fun fact **I like to automate all things and to learn continuously**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
